@@ -1,6 +1,6 @@
-# A starter app for Anguler and Java
+# A starter app for AngularJs and Java
 
-This is a (somewhat) clean application skeleton for an application that uses AngularJs for front end
+This is a (somewhat) clean skeleton for an application that uses AngularJs for front end
 and Java for back end.
 
 There is pretty much no code in there, just the necessary files to start developping straight away.
@@ -31,8 +31,4 @@ grunt server
 ```
 
 This will automatically open a new browser window at `http://0.0.0.0/9000`
-The grunt server will proxy routes to /app, /metrics, /dump & /api-docs to `http://0.0.0.0/8080`
-
-Navigating your browser to localhost:9000/app should show the Hello World response generated from 
-
-
+The grunt server will proxy routes /app, /metrics, /dump & /api-docs to `http://0.0.0.0/8080`
