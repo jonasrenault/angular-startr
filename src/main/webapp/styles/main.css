@@ -1,0 +1,11 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.error {
+    color: white;
+    background-color: red;
+}
+
